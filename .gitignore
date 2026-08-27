@@ -1,0 +1,16 @@
+# VM
+*.ova
+*.ovf
+*.mf
+*.vmdk
+*.qcow2
+*.iso
+
+# Taller
+taller-*
+taller/
+
+# Binarios
+level*
+shellcode.o
+shellcode.bin
